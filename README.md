@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Raphael! 👋
 
-<!--
-**RaphaelBenevenutoSilva/RaphaelBenevenutoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na Unimetrocamp Wyden . Estou em transição de carreira, trazendo uma bagagem sólida de responsabilidade e disciplina de setores como logística e indústria para o mundo da tecnologia.
 
-Here are some ideas to get you started:
+### 🚀 Foco Atual
+Estou mergulhado no ecossistema **Java**, focando em:
+* **Lógica de Programação** avançada.
+* **Programação Orientada a Objetos (POO)**.
+* Desenvolvimento de soluções **Backend** eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Java, Python.
+* **Ferramentas:** Git, GitHub, NetBeans.
+* **Conceitos:** POO, Estruturas de Dados, Algoritmos.
+
+### 📂 Meus Projetos em Destaque
+* **Projetos-java:** Simuladores de sistemas e automação de lógica.
+* **POO-Programacao-Orientada-A-Objetos:** Exercícios práticos aplicando pilares de POO.
+
+---
+
+📫 **Como me encontrar:**
+* **LinkedIn:** [linkedin.com/in/raphaelbenevenuto]
