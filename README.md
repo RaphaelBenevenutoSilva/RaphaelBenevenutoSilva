@@ -20,4 +20,4 @@ Estou mergulhado no ecossistema **Java**, focando em:
 ---
 
 📫 **Como me encontrar:**
-* **LinkedIn:** [linkedin.com/in/raphaelbenevenuto]
+**LinkedIn:** [linkedin.com/in/raphaelbenevenuto](https://www.linkedin.com/in/raphaelbenevenuto)
