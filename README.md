@@ -1,4 +1,4 @@
-# Olá, eu sou o Raphael! 👋
+# Olá, eu sou o Raphael! 
 
 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na Unimetrocamp Wyden . Estou em transição de carreira, trazendo uma bagagem sólida de responsabilidade e disciplina de setores como logística e indústria para o mundo da tecnologia.
 
